@@ -110,10 +110,6 @@ To set up the project on your local machine, follow these steps:
 
 ---
 
-Here is the simplified **Contributing** section added to the README:
-
----
-
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
